@@ -1,6 +1,6 @@
 class Test
 {
-	public static void main(String[] args)
+	public static void main(String[]     args)
 	{
 		char c='a';
 		int a=(int)(c);
